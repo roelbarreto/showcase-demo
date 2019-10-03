@@ -1,31 +1,31 @@
 self.__precacheManifest = [
   {
-    "url": "/showcase-demo/_next/static/YbbFRx00Jl2bpUi52z9-2/pages/_app.js",
-    "revision": "2718483d8cb289045aa7"
-  },
-  {
-    "url": "/showcase-demo/_next/static/YbbFRx00Jl2bpUi52z9-2/pages/_error.js",
-    "revision": "fa430cb67e2e11e88ae4"
-  },
-  {
-    "url": "/showcase-demo/_next/static/YbbFRx00Jl2bpUi52z9-2/pages/content/5d94692710670c110329d866.js",
-    "revision": "ffaefc95114823e7588f"
-  },
-  {
-    "url": "/showcase-demo/_next/static/YbbFRx00Jl2bpUi52z9-2/pages/content/[slug].js",
-    "revision": "1214e5027c3f2789e7d9"
-  },
-  {
-    "url": "/showcase-demo/_next/static/YbbFRx00Jl2bpUi52z9-2/pages/index.js",
-    "revision": "4a4b8727ff70c9e0a0f0"
-  },
-  {
     "url": "/showcase-demo/_next/static/chunks/commons.15364dbd6b8f874921e0.js",
     "revision": "98cf29d53e9954218468"
   },
   {
     "url": "/showcase-demo/_next/static/chunks/pdfjsWorker.d83f417bd68a31b4bf3d.js",
     "revision": "8a1db8b30b2584f3a5af"
+  },
+  {
+    "url": "/showcase-demo/_next/static/qYFbvTmvLPnX0JbOAgYuQ/pages/_app.js",
+    "revision": "638725986c7bcebd224a"
+  },
+  {
+    "url": "/showcase-demo/_next/static/qYFbvTmvLPnX0JbOAgYuQ/pages/_error.js",
+    "revision": "98741d1de1b680a63fe8"
+  },
+  {
+    "url": "/showcase-demo/_next/static/qYFbvTmvLPnX0JbOAgYuQ/pages/content/5d94692710670c110329d866.js",
+    "revision": "03e5164e3f0db2536147"
+  },
+  {
+    "url": "/showcase-demo/_next/static/qYFbvTmvLPnX0JbOAgYuQ/pages/content/[slug].js",
+    "revision": "3af563aba88a58e7ddeb"
+  },
+  {
+    "url": "/showcase-demo/_next/static/qYFbvTmvLPnX0JbOAgYuQ/pages/index.js",
+    "revision": "c625c5b57c0b6d94cbf5"
   },
   {
     "url": "/showcase-demo/_next/static/runtime/main-561999f7e694d22c9951.js",
