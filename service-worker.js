@@ -1,38 +1,38 @@
 self.__precacheManifest = [
   {
-    "url": "/showcase-demo/_next/static/chunks/commons.15364dbd6b8f874921e0.js",
+    "url": "/showcase-demo/static/chunks/commons.15364dbd6b8f874921e0.js",
     "revision": "98cf29d53e9954218468"
   },
   {
-    "url": "/showcase-demo/_next/static/chunks/pdfjsWorker.d83f417bd68a31b4bf3d.js",
+    "url": "/showcase-demo/static/chunks/pdfjsWorker.d83f417bd68a31b4bf3d.js",
     "revision": "8a1db8b30b2584f3a5af"
   },
   {
-    "url": "/showcase-demo/_next/static/qYFbvTmvLPnX0JbOAgYuQ/pages/_app.js",
+    "url": "/showcase-demo/static/qYFbvTmvLPnX0JbOAgYuQ/pages/_app.js",
     "revision": "638725986c7bcebd224a"
   },
   {
-    "url": "/showcase-demo/_next/static/qYFbvTmvLPnX0JbOAgYuQ/pages/_error.js",
+    "url": "/showcase-demo/static/qYFbvTmvLPnX0JbOAgYuQ/pages/_error.js",
     "revision": "98741d1de1b680a63fe8"
   },
   {
-    "url": "/showcase-demo/_next/static/qYFbvTmvLPnX0JbOAgYuQ/pages/content/5d94692710670c110329d866.js",
+    "url": "/showcase-demo/static/qYFbvTmvLPnX0JbOAgYuQ/pages/content/5d94692710670c110329d866.js",
     "revision": "03e5164e3f0db2536147"
   },
   {
-    "url": "/showcase-demo/_next/static/qYFbvTmvLPnX0JbOAgYuQ/pages/content/[slug].js",
+    "url": "/showcase-demo/static/qYFbvTmvLPnX0JbOAgYuQ/pages/content/[slug].js",
     "revision": "3af563aba88a58e7ddeb"
   },
   {
-    "url": "/showcase-demo/_next/static/qYFbvTmvLPnX0JbOAgYuQ/pages/index.js",
+    "url": "/showcase-demo/static/qYFbvTmvLPnX0JbOAgYuQ/pages/index.js",
     "revision": "c625c5b57c0b6d94cbf5"
   },
   {
-    "url": "/showcase-demo/_next/static/runtime/main-561999f7e694d22c9951.js",
+    "url": "/showcase-demo/static/runtime/main-561999f7e694d22c9951.js",
     "revision": "7e6042bb69de6e76292b"
   },
   {
-    "url": "/showcase-demo/_next/static/runtime/webpack-3c6e3a843e443e2081d3.js",
+    "url": "/showcase-demo/static/runtime/webpack-3c6e3a843e443e2081d3.js",
     "revision": "8b7b8d6b3c2a4a36155a"
   }
 ];

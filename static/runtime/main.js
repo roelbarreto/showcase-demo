@@ -8751,7 +8751,7 @@ function () {
               case 0:
                 route = _this.normalizeRoute(route);
                 scriptRoute = route === '/' ? '/index.js' : route + ".js";
-                url = _this.assetPrefix + "/_next/static/" + encodeURIComponent(_this.buildId) + "/pages" + scriptRoute;
+                url = _this.assetPrefix + "/static/" + encodeURIComponent(_this.buildId) + "/pages" + scriptRoute;
 
                 _this.loadScript(url, route, true);
 
@@ -8856,7 +8856,7 @@ function () {
 
                 if (false) {}
 
-                url = isDependency ? route : _this2.assetPrefix + "/_next/static/" + encodeURIComponent(_this2.buildId) + "/pages" + scriptRoute; // n.b. If preload is not supported, we fall back to `loadPage` which has
+                url = isDependency ? route : _this2.assetPrefix + "/static/" + encodeURIComponent(_this2.buildId) + "/pages" + scriptRoute; // n.b. If preload is not supported, we fall back to `loadPage` which has
                 // its own deduping mechanism.
 
                 if (!document.querySelector("link[rel=\"preload\"][href^=\"" + url + "\"], script[data-next-page=\"" + route + "\"]")) {

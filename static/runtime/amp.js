@@ -2375,7 +2375,7 @@ var mostRecentHash = null;
 /* eslint-disable-next-line */
 
 var curHash = __webpack_require__.h();
-var hotUpdatePath = assetPrefix + (assetPrefix.endsWith('/') ? '' : '/') + '_next/static/webpack/'; // Is there a newer version of this code available?
+var hotUpdatePath = assetPrefix + (assetPrefix.endsWith('/') ? '' : '/') + 'static/webpack/'; // Is there a newer version of this code available?
 
 function isUpdateAvailable() {
   // __webpack_hash__ is the hash of the current compilation.
