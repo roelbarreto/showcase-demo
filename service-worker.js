@@ -8,11 +8,11 @@ self.__precacheManifest = [
     "revision": "8a1db8b30b2584f3a5af"
   },
   {
-    "url": "/showcase-demo/static/qYFbvTmvLPnX0JbOAgYuQ/pages/_app.js",
+    "url": "/showcase-demo/static/qYFbvTmvLPnX0JbOAgYuQ/pages/app.js",
     "revision": "638725986c7bcebd224a"
   },
   {
-    "url": "/showcase-demo/static/qYFbvTmvLPnX0JbOAgYuQ/pages/_error.js",
+    "url": "/showcase-demo/static/qYFbvTmvLPnX0JbOAgYuQ/pages/error.js",
     "revision": "98741d1de1b680a63fe8"
   },
   {

@@ -1,4 +1,4 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/_app.js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/app.js"],{
 
 /***/ "./lib/init-apollo.js":
 /*!****************************!*\
@@ -16279,7 +16279,7 @@ function () {
         Component: Component
       });
 
-      this.components[route] = newData; // pages/_app.js updated
+      this.components[route] = newData; // pages/app.js updated
 
       if (route === '/_app') {
         this.notify(this.components[this.route]);
@@ -17278,25 +17278,25 @@ exports.SUPPORTS_PERFORMANCE_USER_TIMING = exports.SUPPORTS_PERFORMANCE && typeo
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! ./dist/pages/_app */ "./node_modules/next/dist/pages/_app.js")
+module.exports = __webpack_require__(/*! ./dist/pages/_app */ "./node_modules/next/dist/pages/app.js")
 
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js!./":
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_app&absolutePagePath=private-next-pages%2Fapp.js!./":
 /*!*********************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js ***!
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_app&absolutePagePath=private-next-pages%2Fapp.js ***!
   \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 
     (window.__NEXT_P=window.__NEXT_P||[]).push(["/_app", function() {
-      var page = __webpack_require__(/*! private-next-pages/_app.js */ "./pages/_app.js")
+      var page = __webpack_require__(/*! private-next-pages/app.js */ "./pages/app.js")
       if(true) {
-        module.hot.accept(/*! private-next-pages/_app.js */ "./pages/_app.js", function() {
+        module.hot.accept(/*! private-next-pages/app.js */ "./pages/app.js", function() {
           if(!next.router.components["/_app"]) return
-          var updatedPage = __webpack_require__(/*! private-next-pages/_app.js */ "./pages/_app.js")
+          var updatedPage = __webpack_require__(/*! private-next-pages/app.js */ "./pages/app.js")
           next.router.update("/_app", updatedPage.default || updatedPage)
         })
       }
@@ -17572,9 +17572,9 @@ function withRouter(ComposedComponent) {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/pages/_app.js":
+/***/ "./node_modules/next/dist/pages/app.js":
 /*!**********************************************!*\
-  !*** ./node_modules/next/dist/pages/_app.js ***!
+  !*** ./node_modules/next/dist/pages/app.js ***!
   \**********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -26834,9 +26834,9 @@ if (hasSymbols()) {
 
 /***/ }),
 
-/***/ "./pages/_app.js":
+/***/ "./pages/app.js":
 /*!***********************!*\
-  !*** ./pages/_app.js ***!
+  !*** ./pages/app.js ***!
   \***********************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -26864,7 +26864,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/home/roelito/GlobalSignIn/myxp-content-showcase/pages/_app.js";
+var _jsxFileName = "/home/roelito/GlobalSignIn/myxp-content-showcase/pages/app.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement;
 
 
@@ -26932,5 +26932,5 @@ module.exports = dll_01f9a3fa864a7b7414d8;
 
 /***/ })
 
-},[["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js!./","static/runtime/webpack.js"]]]);
-//# sourceMappingURL=_app.js.map
+},[["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_app&absolutePagePath=private-next-pages%2Fapp.js!./","static/runtime/webpack.js"]]]);
+//# sourceMappingURL=app.js.map
