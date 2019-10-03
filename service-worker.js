@@ -1,38 +1,38 @@
 self.__precacheManifest = [
   {
-    "url": "/_next/static/UZeqhSWIfX8hAioLAIciK/pages/_app.js",
-    "revision": "c093bddc4d485fcddef1"
+    "url": "/showcase-demo/_next/static/YbbFRx00Jl2bpUi52z9-2/pages/_app.js",
+    "revision": "2718483d8cb289045aa7"
   },
   {
-    "url": "/_next/static/UZeqhSWIfX8hAioLAIciK/pages/_error.js",
-    "revision": "d27e8dc4cadba583bdd9"
+    "url": "/showcase-demo/_next/static/YbbFRx00Jl2bpUi52z9-2/pages/_error.js",
+    "revision": "fa430cb67e2e11e88ae4"
   },
   {
-    "url": "/_next/static/UZeqhSWIfX8hAioLAIciK/pages/content/5d94692710670c110329d866.js",
-    "revision": "8d56bea1f8959b888fb7"
+    "url": "/showcase-demo/_next/static/YbbFRx00Jl2bpUi52z9-2/pages/content/5d94692710670c110329d866.js",
+    "revision": "ffaefc95114823e7588f"
   },
   {
-    "url": "/_next/static/UZeqhSWIfX8hAioLAIciK/pages/content/[slug].js",
-    "revision": "793b0cfb611270d23022"
+    "url": "/showcase-demo/_next/static/YbbFRx00Jl2bpUi52z9-2/pages/content/[slug].js",
+    "revision": "1214e5027c3f2789e7d9"
   },
   {
-    "url": "/_next/static/UZeqhSWIfX8hAioLAIciK/pages/index.js",
-    "revision": "923161abc8b6f5e72ed8"
+    "url": "/showcase-demo/_next/static/YbbFRx00Jl2bpUi52z9-2/pages/index.js",
+    "revision": "4a4b8727ff70c9e0a0f0"
   },
   {
-    "url": "/_next/static/chunks/commons.15364dbd6b8f874921e0.js",
+    "url": "/showcase-demo/_next/static/chunks/commons.15364dbd6b8f874921e0.js",
     "revision": "98cf29d53e9954218468"
   },
   {
-    "url": "/_next/static/chunks/pdfjsWorker.d83f417bd68a31b4bf3d.js",
+    "url": "/showcase-demo/_next/static/chunks/pdfjsWorker.d83f417bd68a31b4bf3d.js",
     "revision": "8a1db8b30b2584f3a5af"
   },
   {
-    "url": "/_next/static/runtime/main-561999f7e694d22c9951.js",
+    "url": "/showcase-demo/_next/static/runtime/main-561999f7e694d22c9951.js",
     "revision": "7e6042bb69de6e76292b"
   },
   {
-    "url": "/_next/static/runtime/webpack-3c6e3a843e443e2081d3.js",
+    "url": "/showcase-demo/_next/static/runtime/webpack-3c6e3a843e443e2081d3.js",
     "revision": "8b7b8d6b3c2a4a36155a"
   }
 ];
